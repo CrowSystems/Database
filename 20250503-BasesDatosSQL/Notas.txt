@@ -1,0 +1,31 @@
+¿Que son las bases de datos?
+Las bases de datos son sistemas esenciales en la gestión de información que nos permiten almacenar, consultar, modificar y eliminar
+datos con eficiencia. Su relevancia en el análisis de información es tal que prodríamos compararlas con un archivo de Excel, donde
+las filas representan registros y las columnas atributos. Sin embargo, cuando hablamos de bases de datos, estas se dividen, 
+principalmente en dos categorías: relacionales y no relacionales. Comprender las diferencias entre estos tipos de bases de datos
+es crucial para utilizar el tipo correcto en cada aplicación.
+
+¿Cuáles son las diferencias entre bases de datos relacionales y no relacionales?
+Las bases de datos relacionales, conocidas con RDBMS (Relational Database Management Systems), están estructuradas principalmente
+en tablas que contienen filas y columnas Las columnas representan atributos como nombre, edad o dirección, mientras que las filas
+contienen los registros.
+Este tipo de bases de datos sigue un esquema rígido, lo que significa que la estrutura debe estar definida y acorde a la información
+que se desea almacenar. Esro tambien implica que no se pueden agregar atributos nuevos sin modificar el esquema existente. Las bases
+de datos relacionales también se destacan por el manejo de relaciones entre tablas, utilizando claves primarias y foráneas para garantizar
+la integridad y consistencia de los datos.
+
+
+RDBMS:
+Integridad: Garaantizan la consistencia y la integridad
+Casos de uso:
+Motores
+MySQL
+Postgres
+
+
+NoSQL
+Escalabilidad
+Casos de uso: Aplicaciones con datos no estructurados
+Motores:
+    MongoDB
+    
