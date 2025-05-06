@@ -13,6 +13,9 @@ Este tipo de bases de datos sigue un esquema rígido, lo que significa que la es
 que se desea almacenar. Esro tambien implica que no se pueden agregar atributos nuevos sin modificar el esquema existente. Las bases
 de datos relacionales también se destacan por el manejo de relaciones entre tablas, utilizando claves primarias y foráneas para garantizar
 la integridad y consistencia de los datos.
+por otro lado, las bases de datos no relacionales, tambien conocidas como NoSQL, presentan una estructura mucho más flexible.
+En estas bases, la información se puede almacenar en diversos formatos, como grafos, achivos JSON, o sistemas de clave-valory pueden agregar atributos
+
 
 
 RDBMS:
