@@ -31,4 +31,9 @@ Escalabilidad
 Casos de uso: Aplicaciones con datos no estructurados
 Motores:
     MongoDB
-    
+
+
+¿Cuales son los tipos de agrupación de comandos en bases de datos? Manipular la estructura y la información de una base de datos es
+esencial para cualquier desarrollador o administrador de datos. Existen cinco tipos de agrupaciones de comandos con los que puedes 
+interactuar y controlar una base de datos: el Lenguaje de Consulta (DQL), el Lenguaje de Definicion de datos (DDL), El lenguaje de 
+manipulación de datos (DML), el control de Accesos(DCL)

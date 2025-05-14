@@ -1,0 +1,13 @@
+¿Que aprenderas en este curso de MySQL y SQL?
+Imagina poder acceder de manera directa y eficiente a una vasta cantidad de datos, organizados de forma lógica. Eso entre muchas otras
+habilidades, es lo que aprenderás en este curso de MySQL y SQl.
+
+
+CTRL + L: Borro la pantalla en Ubuntu
+
+
+
+Comandos SQL
+Esenciales:
+show database;              ------------> Muestra todas las bases de datos dentro del sistema.
+use "base de datos a usar"  ------------> Este comando ingresa a la base de datos que se desea realizar modificaciones.
