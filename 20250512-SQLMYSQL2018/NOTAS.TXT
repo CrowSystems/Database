@@ -11,3 +11,15 @@ Comandos SQL
 Esenciales:
 show database;              ------------> Muestra todas las bases de datos dentro del sistema.
 use "base de datos a usar"  ------------> Este comando ingresa a la base de datos que se desea realizar modificaciones.
+
+
+NOTAS:
+Insersión de datos usando queries anidados.
+    ¿Como crear y manejar una base de datos normalizada?
+        En el apasionante mundo de las bases de datos, la normalización es una técnica esencial que permite dividir la información en diferentes
+        tablas, minimizando la redundancia y asegurando la consistencia de los datos. A través de este enfoque, nos aseguramos de que cada elemento,
+        como un libro o un autor, tengan su propio registro y se relacione solamente mendiante identificadores únicos. Vamos a explorar cómo
+        se implementa esto en la práctica usando SQL, enfocado en el correcto manejo de autores y titulos en sistemas de bases de datos.
+
+    ¿Como sustituir una base de datos para almacenar títulos y autores?
+        Al manejar los datos.
