@@ -1,0 +1,4 @@
+describe "tables";
+Describe el contenido de la tabla y te muestra en consola la estructura de la tabla.
+
+show create table clients;
