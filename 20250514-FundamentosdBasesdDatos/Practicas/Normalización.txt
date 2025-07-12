@@ -1,0 +1,22 @@
+Juan josé compra una coca cola
+juan josé compra dos doritos
+lucia compra un chocolate
+lucia compra una coca cola
+
+CLIENTS
+1- juan josé
+2- lucia
+
+PRODUCTS
+1- coca cola
+2- doritos
+3- chocolate
+
+BILLS:
+1- [client: 1] date: 2025-01-2025
+
+BILL_ITEMS:
+1- [bill: 1] [product: 1] quantity: 1
+2- [bill: 2] [product: 2] quantity: 2
+3- [bill: 2] [product: 3] quantity: 1
+4- [bill: 2] [product: 1] quantity: 1

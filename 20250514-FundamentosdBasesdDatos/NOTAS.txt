@@ -2,3 +2,14 @@ describe "tables";
 Describe el contenido de la tabla y te muestra en consola la estructura de la tabla.
 
 show create table clients;
+Muestra la estructura de la base de datos creada.
+
+
+select * from clients
+Muestra el contenido de la tabla seleccionada.
+
+
+CLASE: Normalización y relaciones en bases de datos de tiendas
+
+La gestión eficiente de los datos es esencial para mantener la integridad y facilitar el mantenimiento de cualquier aplicación
+o base de datos. Para ello, es importante conocer dos conceptos 
