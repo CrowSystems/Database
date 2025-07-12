@@ -12,4 +12,23 @@ Muestra el contenido de la tabla seleccionada.
 CLASE: Normalización y relaciones en bases de datos de tiendas
 
 La gestión eficiente de los datos es esencial para mantener la integridad y facilitar el mantenimiento de cualquier aplicación
-o base de datos. Para ello, es importante conocer dos conceptos 
+o base de datos. Para ello, es importante conocer dos conceptos clave: la Normalización y las relacionesentre entidades. A través
+del ejemplo concreto de una tienda pequeña, podemos comprender claramente cómo aplicar estos conceptos usando bases de datos 
+relacionales MYSQL.
+
+¿Que es la Normalización en bases de datos?
+La Normalización es un proceso clave en el diseño de bases de datos. se encarga de eliminar la diplicidad o redundancia de información,
+asegurandose que cada dato esté almacenado en un solo lugar. Esto facilita la actualización y mantenimiento de la información.
+
+¿Porque es importante la Normalización?
+Evita datos redundantes.
+Mejora la integridad y coherencia de la información
+Simplifica las actualizaciones, solo debes cambiar el dato en un único lugar.
+
+¿Qué tipos de relaciones existen en baes de datos relacionales?
+Al establecer relaciones claras entre entidades, se conserva la integridad de los datos. Existen tres tipos principales:
+
+¿En que consiste la relación uno a uno?
+E un tipo de relación en la que cada registro (o tupla ) en una tabla es directamente relacionado exclusivamente con u único registro
+en otra tabla.
+

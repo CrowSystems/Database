@@ -1,0 +1,12 @@
+CREATE Table if NOT exists clients (
+    client_id INTEGER primary KEY auto_increment,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    phone_number VARCHAR(15),
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+SHOW TABLES;
+
+DESCRIBE clients;

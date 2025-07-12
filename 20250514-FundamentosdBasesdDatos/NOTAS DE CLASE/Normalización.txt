@@ -1,3 +1,4 @@
+RELACION 1:1
 Juan josé compra una coca cola
 juan josé compra dos doritos
 lucia compra un chocolate
@@ -20,3 +21,5 @@ BILL_ITEMS:
 2- [bill: 2] [product: 2] quantity: 2
 3- [bill: 2] [product: 3] quantity: 1
 4- [bill: 2] [product: 1] quantity: 1
+
+RELACION 1:N
