@@ -16,4 +16,7 @@ COLLATE=utf8mb4_unicode_ci;
 CREATE TABLE `stations`(
     `id` BIGINT(20),
     `name` VARCHAR(50) NOT NULL,
+    `create_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    `update_at`,
+    ``,
 )
